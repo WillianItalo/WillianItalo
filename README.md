@@ -19,7 +19,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em Support TI
-- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas.
-- 📫 How to reach me: contatowillianitalo@gmail.com
+- 🌱 Aprendiz de Engenheiro de Dados 👨🏽‍💻
+- 📫 contatowillianitalo@gmail.com
 - 😄 Pronouns: ele/dele
 
