@@ -2,6 +2,6 @@
 ### Um curioso, que gosta de entender como as coisas funcionam.
 
 <div style="display: inline_block"></div> 
-- 🔭 Quem não sabe de onde vem, não sabe pra onde vai.<br></br>
+- 🔭 Quem não sabe de onde vem, não sabe pra onde vai.<br>
 - 👨🏽‍💻 Aprendiz de Tecnologia 
 
